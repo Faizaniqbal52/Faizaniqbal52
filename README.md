@@ -12,7 +12,7 @@
 
 <!-- VISITOR COUNT -->
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Faizaniqbal52&icon=2&color=6" />
+https://github-profile-trophy.vercel.app/?username=Faizaniqbal52&theme=radical&no-frame=true&no-bg=true&margin-w=6
 </div>
 
 <br>
