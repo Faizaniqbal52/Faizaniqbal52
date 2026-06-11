@@ -12,7 +12,7 @@
 
 <!-- VISITOR COUNT -->
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Faizaniqbal52&icon=2&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=Faizaniqbal52&color=F97316&style=flat-square&label=Profile+Views" />
 </div>
 
 <br>
@@ -133,7 +133,7 @@ faizaniqbal52@github:~$ cat profile.json
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faizaniqbal52&theme=radical&no-frame=true&no-bg=true&margin-w=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizaniqbal52&theme=radical&margin-w=4" />
 </div>
 
 <br>
