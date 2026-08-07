@@ -87,9 +87,9 @@ faizaniqbal52@github:~$ cat profile.json
 
 | Status | Paper | Venue |
 |---|---|---|
-| ✅ Published | [**Koshur Diacritizer: A Byte-Level Sequence-to-Sequence Model for Kashmiri Diacritic Restoration**](https://arxiv.org/abs/2606.15883) — ByT5-small · DERm 0.0212 · WER 0.2159 · 77.5% expert accuracy · first 23.7K diacritized KS dataset | arXiv:2606.15883 · cs.CL · cs.AI |
+| ✅ Published | [**Koshur Diacritizer: A Byte-Level Sequence-to-Sequence Model for Kashmiri Diacritic Restoration**](https://arxiv.org/abs/2606.15883) — ByT5-small · DERm 0.0212 · WER 0.2159 · 77.5% expert accuracy · first 23.7K diacritized KS dataset | arXiv:2606.15883 · cs.CL |
 | ✅ Published | [**Koshur Pixel: A Large-Scale Synthetic OCR Dataset for Kashmiri**](https://arxiv.org/abs/2606.23144) — 613,078 image-text pairs · SynthOCR-Gen · 25+ augmentation strategies | arXiv:2606.23144 · cs.CV · cs.CL |
-| 🔄 Under Review | [**Benchmarking LLMs on Multi-Sensor Physical Hazard Assessment**](https://github.com/Faizaniqbal52/PhysicalHazardBenchmark) — 68-scenario benchmark · 5 frontier LLMs evaluated | arXiv · cs.AI |
+| ✅ Published | [**Benchmarking LLMs on Multi-Sensor Physical Hazard Assessment**](https://github.com/Faizaniqbal52/PhysicalHazardBenchmark) — 68-scenario benchmark · 5 frontier LLMs evaluated | 2607.20476 · arXiv · cs.AI |
 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
